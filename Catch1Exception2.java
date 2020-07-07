@@ -2,7 +2,7 @@ package javaapplication2;
 
 import java.util.Scanner;
 
-public class JavaApplication7 {
+public class Catch1Exception2 {
 
     public static void main(String[] args) {
         Scanner ob = new Scanner(System.in);
