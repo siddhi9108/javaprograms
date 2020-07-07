@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class JavaApplication10 {
+public class Finally {
 
     static void A() {
         try {
