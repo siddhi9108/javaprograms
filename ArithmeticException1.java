@@ -1,7 +1,7 @@
 package javaapplication2;
 
 
-public class JavaApplication3 {
+public class ArithmeticException1 {
 
     public static void main(String[] args) {
         int a, b, c;
