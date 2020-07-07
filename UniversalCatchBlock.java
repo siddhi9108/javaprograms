@@ -2,7 +2,7 @@ package javaapplication2;
 
 import java.util.Scanner;
 
-public class JavaApplication6 {
+public class UniversalCatchBlock {
 
     public static void main(String[] args) {
         Scanner ob = new Scanner(System.in);
