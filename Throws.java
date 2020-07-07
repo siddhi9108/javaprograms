@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class JavaApplication9 {
+public class Throws {
 
     static void show() throws FileNotFoundException, ArithmeticException {
         FileInputStream fin;
