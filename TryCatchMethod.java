@@ -2,7 +2,7 @@ package javaapplication2;
 
 import java.util.Scanner;
 
-public class JavaApplication4 {
+public class TryCatchMethod {
 
     public static void main(String[] args) {
         Scanner ob = new Scanner(System.in);
