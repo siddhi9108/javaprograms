@@ -1,4 +1,4 @@
-class java1{
+class PassingParametersToMain{
           public static void main (String[] arr){
                     if(arr.length==2)
                      {
