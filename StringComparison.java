@@ -1,8 +1,4 @@
-package javaapplication2;
-
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
+package javaapplication1;
 
 public class StringComparison {
 
